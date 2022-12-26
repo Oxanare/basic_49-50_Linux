@@ -1,0 +1,70 @@
+   0 whoami
+   1 rename --help
+   2 cd /
+   3 ls
+   4 ls --help
+   5 ls -a
+   6 ls -l
+   7 ls -al
+   8 cd /home
+   9 cd ..
+  10 cd..
+  11 cd ..
+  12 cd /home
+  13 mkdir user1
+  14 ls
+  15 cd user1/
+  16 mkdir task1
+  17 ls
+  18 cd task1
+  19 history
+  20 file.txt
+  21 touch file.txt
+  22 ls
+  23 cd
+  24 pwd
+  25 tree
+  26 tree /
+  27 tree /home
+  28 ls
+  29 ls /home
+  30 ls -R/home
+  31 ls -R /home
+  32 cd
+  33 mkdir /home/user2/task2
+  34 mkdi
+  35 mkdir --help
+  36 mkdir -p /home/user2/task2
+  37 ls
+  38 ls /home
+  39 ls -R /home
+  40 touch /home/user2/task2/file2.txt
+  41 mkdir -p /home/user2/task2/oxana
+  42 mkdir /home/user3 /opt/user1 /tmp/user1
+  43 mkdir -p /home/user3 /opt/user1 /tmp/user1/task1
+  44 tree /home
+  45 touch /home/user/user1/user2/user3
+  46 touch /home/user /user1 /user2 /user3
+  47 touch /home/user3/file2.txt
+  48 touch /home/user3/file2.txt /opt/temu/ user1/
+  49 touch /home/user3/file2.txt /opt/ temu/user1/
+  50 touch /home/user3/file2.txt /opt/temu  user1/
+  51 touch /home/user3/file2.txt /opt/user1
+  52 touch /home/user3/file2.txt /opt/user1/file2.txt /tmp/user1/file2.txt
+  53 mkdir /tmp/user2/ && touch /tmp/user2/file3.txt
+  54 date
+  55 cp /home/user1/task1/file1.txt /
+  56 cp /home/user1/task1/file.txt
+  57 cp /home/user1/task1/file.txt /
+  58 ls /
+  59 mv /home/user2/task2/file2.txt /var/1.txt
+  60 ls /var
+  61 clear
+  62 cp /home /sys/
+  63 cp -R /home /sys/
+  64 cp -R /home /opt/
+  65 rm -rf /tmp/user1
+  66 ls /tmp
+  67 tree /tmp/
+  68 history
+  69 history > history1.txt
